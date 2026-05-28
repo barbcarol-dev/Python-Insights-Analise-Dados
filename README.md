@@ -1,5 +1,6 @@
 📊 Python Insights — Análise de Cancelamento de Clientes
 Projeto de análise de dados com Python focado em entender os principais fatores que levam ao cancelamento de clientes (churn) em uma base com aproximadamente 50 mil registros.
+
 📚 Projeto de estudos desenvolvido pela hashtag programação, durante a Jornada Python.
 🧠 Contexto do Projeto
 Uma empresa com mais de 800 mil clientes identificou que grande parte de sua base está inativa, ou seja, clientes que já cancelaram o serviço.
