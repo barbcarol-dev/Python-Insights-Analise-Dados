@@ -67,7 +67,7 @@ Clientes com menor engajamento tendem a cancelar mais rapidamente
 
 🚀 Como Executar o Projeto
 1. Clone o repositório
-git clone https://github.com/barbswank/Python-Insights-Analise-Dados.git
+git clone https://github.com/barbcarol-dev/Python-Insights-Analise-Dados.git
 2. Acesse a pasta
 cd python-insights
 3. Instale as dependências
@@ -81,7 +81,7 @@ Projeto desenvolvido como estudo prático de Análise de Dados com Python, duran
 Jornada Python, promovida pela hashtag programação.
 
 👩‍💻 Autora
-Bárbara Swank
+Bárbara Caroline
 Estudante de Programação | Python | Análise de Dados
 
 ⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório!                                      o que acha desse readme que eu fiz?
