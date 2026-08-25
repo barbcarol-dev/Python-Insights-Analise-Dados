@@ -66,12 +66,12 @@ A perda contínua de clientes impacta diretamente a receita e a sustentabilidade
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/barbcarol-dev/Python-Insights-Analise-Dados.git
+   git clone https://github.com/barbcarol-dev/python-insights-analise-dados.git
    ```
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd Python-Insights-Analise-Dados
+   cd python-insights-analise-dados
    ```
 
 3. Instale as bibliotecas necessárias:
