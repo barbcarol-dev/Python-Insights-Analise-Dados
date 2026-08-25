@@ -77,11 +77,11 @@ jupyter notebook
 Abra o arquivo inicial.ipynb.
 
 📚 Contexto Educacional
-Projeto desenvolvido como estudo prático de Análise de Dados com Python, durante a
-Jornada Python, promovida pela hashtag programação.
+(Projeto desenvolvido como estudo prático de Análise de Dados com Python, durante a
+Jornada Python, promovida pela hashtag programação.)
 
 👩‍💻 Autora
 Bárbara Caroline
-Estudante de Programação | Python | Análise de Dados
+(Estudante de Programação | Python | Análise de Dados)
 
 ⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório!                                      o que acha desse readme que eu fiz?
